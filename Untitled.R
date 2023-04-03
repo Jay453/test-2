@@ -7,4 +7,4 @@ gitcreds_set()
 
 
 usethis::use_git_config(user.name="Jay453", user.email="jeremy.debonville@gmail.com")
-#
+#library(VinnyGambini)
